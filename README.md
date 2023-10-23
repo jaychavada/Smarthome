@@ -1,2 +1,2 @@
 # Smarthome
-https://jaychavada.github.io/Smarthome/
+https://smarthome-jaychavada.netlify.app/
